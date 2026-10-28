@@ -3,6 +3,7 @@
 Civil Engineer with 13 years of experience in the construction industry in Brazil and Australia. Passionate about technology and innovation, specialized in BIM methodology with a dual degree from Zigurat Global Institute of Technology and the University of Barcelona.
 
 Experienced in Virtual Design and Construction (VDC), with strong expertise in information management, process mapping and optimization, team training, project and construction planning and coordination, as well as the implementation of technologies throughout all stages of the asset life cycle.
+
 ---
  
 ### 🛠️ Tech Stack & Tools
